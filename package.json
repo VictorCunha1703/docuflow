@@ -1,0 +1,8 @@
+{
+  "name": "docuflow",
+  "private": true,
+  "description": "MVP de entrada e aprovação empresarial de documentos.",
+  "scripts": {
+    "test": "node model.test.js"
+  }
+}
